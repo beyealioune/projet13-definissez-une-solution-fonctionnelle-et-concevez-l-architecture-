@@ -36,7 +36,8 @@ public class WebSecurityConfig {
                 http
                         .csrf(csrf -> csrf.disable())
                         .authorizeHttpRequests((requests) -> requests
-                                .requestMatchers("/api/auth/register","/api/auth/login","/images/**","/swagger-ui/**", "/v3/api-docs/**","/swagger-ui.html").permitAll()
+                                .requestMatchers("/api/auth/register", "/api/auth/login", "/images/**", "/swagger-ui/**", "/v3/api-docs/**", "/swagger-ui.html").permitAll()
+                                .requestMatchers("/ws/**").permitAll() // Permet l'accès aux WebSockets
                                 .anyRequest().authenticated()
                         )
                         .addFilterBefore(tokenFilter, UsernamePasswordAuthenticationFilter.class);

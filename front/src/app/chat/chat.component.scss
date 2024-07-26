@@ -1,0 +1,33 @@
+.message-container {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  .message-container .message-text {
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+  }
+  
+  .message-container .sent {
+    text-align: right;
+  }
+  
+  .message-container .received {
+    text-align: left;
+    background-color: #f1f1f1;
+  }
+  
+  .message-container .sent .message-text {
+    background-color: #d4edda;
+  }
+  
+  .message-container .received .message-text {
+    background-color: #f8d7da;
+  }
+  
+  .message-time {
+    font-size: 0.8em;
+    color: gray;
+  }
+  

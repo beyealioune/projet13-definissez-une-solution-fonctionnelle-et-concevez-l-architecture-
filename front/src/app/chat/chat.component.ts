@@ -4,26 +4,21 @@ import { ChatService, Message } from '../services/chat.service';
 @Component({
   selector: 'app-chat',
   templateUrl: './chat.component.html',
-  styleUrls: ['./chat.component.css']
+  styleUrls: ['./chat.component.scss']
 })
 export class ChatComponent implements OnInit {
   public username: string = '';
   public text: string = '';
   public connected: boolean = false;
-  public sent: Message[] = [];
-  public received: Message[] = [];
+  public messages: Message[] = []; // Combined list of messages
 
   constructor(public chatService: ChatService) {}
 
   ngOnInit() {
     this.chatService.messages$.subscribe(
       (message: Message) => {
-        // Distinguish between sent and received messages
-        if (message.name === this.username) {
-          this.sent.push(message);
-        } else {
-          this.received.push(message);
-        }
+        this.messages.push(message); // Add incoming messages to the combined list
+        this.messages.sort((a, b) => a.time.getTime() - b.time.getTime()); // Sort by time
       },
       (error) => {
         console.error('Erreur reçue depuis le service de chat:', error);
@@ -49,7 +44,8 @@ export class ChatComponent implements OnInit {
         time: new Date()
       };
       this.chatService.sendMessage(message);
-      this.sent.push(message); // Add to sent messages
+      this.messages.push(message); // Add sent message to the combined list
+      this.messages.sort((a, b) => a.time.getTime() - b.time.getTime()); // Sort by time
       this.text = '';
     }
   }

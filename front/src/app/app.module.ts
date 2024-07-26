@@ -6,7 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
 
-import { ReactiveFormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { ChatComponent } from './chat/chat.component';
 
@@ -17,7 +17,7 @@ import { ChatComponent } from './chat/chat.component';
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MatButtonModule,ReactiveFormsModule,HttpClientModule
+    MatButtonModule,ReactiveFormsModule,HttpClientModule,FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent],

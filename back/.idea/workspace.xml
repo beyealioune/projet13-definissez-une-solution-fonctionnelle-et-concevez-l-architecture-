@@ -5,12 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9067dbca-3d1c-49eb-99a9-c27007d554e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/openclassrooms/mddapi/SecurityGlobal/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openclassrooms/mddapi/SecurityGlobal/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/openclassrooms/mddapi/chat/SocketHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openclassrooms/mddapi/chat/SocketHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/openclassrooms/mddapi/chat/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openclassrooms/mddapi/chat/WebSocketConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/openclassrooms/mddapi/entities/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openclassrooms/mddapi/entities/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/ArticleDTO$ArticleDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/ArticleDTO$ArticleDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/ArticleDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/ArticleDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/CommentDTO$CommentDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/CommentDTO$CommentDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/CommentDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/CommentDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/SubscriptionDTO$SubscriptionDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/SubscriptionDTO$SubscriptionDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/SubscriptionDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/SubscriptionDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/ThemeDTO$ThemeDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/ThemeDTO$ThemeDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/ThemeDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/ThemeDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/UserDTO$UserDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/UserDTO$UserDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Dtos/UserDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Exceptions/RegistrationException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/Exceptions/RegistrationException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/MddApiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/MddApiApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/SecurityGlobal/TokenFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/SecurityGlobal/TokenFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/SecurityGlobal/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/SecurityGlobal/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/chat/SocketHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/chat/SocketHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/chat/WebSocketConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/chat/WebSocketConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/chat/WebSocketHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/chat/WebSocketHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/ArticleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/ArticleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/CommentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/CommentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/SubscriptionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/SubscriptionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/ThemeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/ThemeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/Subscription.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/Subscription.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/Theme.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/Theme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/entities/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtExtractor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtExtractor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtExtractorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtExtractorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtValidatorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/JwtValidatorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/TokenSigner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/TokenSigner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/TokenSignerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/jwt/TokenSignerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/repository/ArticleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/repository/ArticleRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/repository/CommentRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/repository/CommentRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/repository/SubscriptionRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/repository/SubscriptionRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/repository/ThemeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/repository/ThemeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/ArticleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/ArticleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/CommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/CommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/RegisterService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/RegisterService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/SubscriptionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/SubscriptionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/ThemeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/ThemeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/mddapi/services/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/mddapi/MddApiApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/mddapi/MddApiApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +73,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -40,18 +88,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/9109898N/OCR 13/projet13_OCR/back"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/9109898N/OCR 13/projet13_OCR/back&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PoC" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.openclassrooms.mddapi.MddApiApplication" />
+      <module name="mdd-api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
       <module name="mdd-api" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,5 +122,16 @@
       <updated>1721895008444</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

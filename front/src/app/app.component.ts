@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { SessionService } from './services/session.service';
 
 @Component({
   selector: 'app-root',
@@ -9,9 +8,7 @@ import { SessionService } from './services/session.service';
 export class AppComponent {
   title = 'front';
 
-  constructor(private sessionService: SessionService) {}
+  constructor() {}
 
-
-  isLogged$ = this.sessionService.$isLogged();
 
 }

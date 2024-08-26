@@ -6,11 +6,7 @@ Ce projet à été créer avec  [Angular CLI](https://github.com/angular/angular
 
 Effectuer cette commande dans le terminal d'un éditeur de code : 
 
-<<<<<<< HEAD
-'git clone https://github.com/beyealioune/projet6_developper_une_application_fullstack_OCR.git'
-=======
 'git clone https://github.com/beyealioune/projet13-definissez-une-solution-fonctionnelle-et-concevez-l-architecture-.git'
->>>>>>> parent of 95cfb6d (wip)
 
 
 ## Installation des Dépendances : 
@@ -35,7 +31,7 @@ Une fois les dépendances installées, vous pouvez lancer l'application en utili
 
 ## Auteur
 
-Application réalisé dans le cadre de mon projet 6 Openclassroom.
+Application réalisé dans le cadre de mon projet 13 Openclassroom.
 
 
 
@@ -48,11 +44,7 @@ Le backend de l'application est développé avec Spring Boot.
 
 Effectuer cette commande dans le terminal d'un éditeur de code :
 
-<<<<<<< HEAD
-'git clone https://github.com/beyealioune/projet6_developper_une_application_fullstack_OCR.git'
-=======
 'git clone https://github.com/beyealioune/projet13-definissez-une-solution-fonctionnelle-et-concevez-l-architecture-.git'
->>>>>>> parent of 95cfb6d (wip)
 
 Ouvrer ensuite le dossier back dans IntelliJ
 
@@ -84,8 +76,3 @@ Ouvrez le terminal et accédez au répertoire du projet backend.
 Exécutez la commande suivante pour démarrer le serveur :
 
 'mvn spring-boot:run'
-
-<<<<<<< HEAD
-=======
-# P6-Full-Stack-reseau-dev
->>>>>>> parent of 95cfb6d (wip)
